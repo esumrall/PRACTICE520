@@ -1,0 +1,3 @@
+1. It has been rewarding to learn how to use github. I can see how useful this could be for my own research one day. 
+2. Github as a whole seems very complex and intimidating to myself (no prior coding experience)
+3. Are there any significant limitations to using the web based editor? I have an iPad that I use for my coursework and github desktop is not an option. I have completed this assignment through the web based editor.
