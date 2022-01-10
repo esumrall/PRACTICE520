@@ -1,5 +1,3 @@
 # PRACTICE520
-Practice
-can i commit?
-
+git clone https://github.com/beards-lab/Phys520.git
 
